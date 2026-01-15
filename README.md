@@ -65,7 +65,7 @@ Built a real-time speech-to-text system combining **Applied ML** with a **Python
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fareed04/Fareed04/output/pacman.svg">
 </picture>
