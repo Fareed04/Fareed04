@@ -50,7 +50,7 @@ Built a real-time speech-to-text system combining **Applied ML** with a **Python
 ---
 
 ## ♟️ Beyond the Data
-**Chess Enthusiast:** I apply the same strategic thinking, pattern recognition, and long-term planning required on the board to complex data modeling and problem-solving.
+**Avid Chess Player:** I apply the same strategic thinking, pattern recognition, and long-term planning required on the board to complex data modeling and problem-solving.
 
 ---
 
