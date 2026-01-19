@@ -29,11 +29,24 @@
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,sqlite,git,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=py,flask,django,sqlite,mysql,git,github,vscode,pycharm,postman,vercel,html,css,js" />
 </div>
 
-**Libraries:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn  
-**Tools:** Excel • Tableau • Power BI • Jupyter Notebook
+**Primary Language**  
+Python  
+
+**Data & Analytics**  
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn  
+Excel • Google Sheets • BigQuery (SQL)  
+
+**Backend & APIs**  
+Flask • Django • RESTful APIs  
+
+**Databases**  
+SQLite • MySQL  
+
+**Developer & Productivity Tools**  
+Git • GitHub • VS Code • PyCharm • Jupyter Notebook (Anaconda) • Postman • Vercel  
 
 ---
 
