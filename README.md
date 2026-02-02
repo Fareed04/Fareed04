@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Selected Work (Start Here)
+## 🚀 Selected Work
 
 ### 🏥 Medical Appointment No-Show Prediction
 
