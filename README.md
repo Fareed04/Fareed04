@@ -29,19 +29,29 @@
 
 ## 🚀 Selected Work
 
-### 🏥 Medical Appointment No-Show Prediction
-
-Analyzed **110k+ medical appointments** to identify drivers of patient absenteeism and built a **cost-sensitive ML model** to reduce missed appointments and operational waste.  
-Focused on feature behavior, model evaluation trade-offs, and decision impact for healthcare operations.  
-🔗 https://github.com/Fareed04/medical-appointment-no-shows-analysis
-
----
-
 ### 📦 Logistics Performance Analysis
 
 Identified a **double loss** where late deliveries increased freight costs by **12 percent** and dropped customer satisfaction to **2.56 out of 5**.  
 Focused on São Paulo and Rio de Janeiro hubs to surface targeted, actionable operational fixes.  
 🔗 https://github.com/Fareed04/logistics-performance-analysis
+
+---
+
+### 🚴 Cyclistic Bike-Share Behavioral Analysis
+
+Analyzed **5.3M+ ride records** using Python to differentiate usage patterns between casual riders and annual members.
+
+Identified key **behavioral markers** such as a 63% longer average ride duration for casual users to drive data backed membership conversion strategies.
+
+🔗 https://github.com/Fareed04/Case_Study__Cyclistic_bike_share_analysis
+
+---
+
+### 🏥 Medical Appointment No-Show Prediction
+
+Analyzed **110k+ medical appointments** to identify drivers of patient absenteeism and built a **cost-sensitive ML model** to reduce missed appointments and operational waste.  
+Focused on feature behavior, model evaluation trade-offs, and decision impact for healthcare operations.  
+🔗 https://github.com/Fareed04/medical-appointment-no-shows-analysis
 
 ---
 
