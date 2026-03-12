@@ -86,6 +86,12 @@ Git • GitHub • Jupyter • VS Code • PyCharm • Postman • Vercel
 
 ---
 
+## 📜 Certifications
+* **Google Data Analytics Professional Certificate** | Issued by Google 
+  [View Credential](https://coursera.org/share/250613b58974c255cf86759cd2486c9f)
+
+---
+
 ## 🎮 Beyond Work
 
 * ♟️ Chess player applying strategic thinking and pattern recognition to analytical problem solving
