@@ -87,8 +87,18 @@ Git • GitHub • Jupyter • VS Code • PyCharm • Postman • Vercel
 ---
 
 ## 📜 Certifications
-* **Google Data Analytics Professional Certificate** | Issued by Google 
-  [View Credential](https://coursera.org/share/250613b58974c255cf86759cd2486c9f)
+
+<div align="left">
+  <a href="https://www.credly.com/badges/5d309060-1adc-47f9-9ab0-da2d934d9b08" target="_blank">
+    <img src="images/google_badge.png" width="100" height="100" alt="Google Data Analytics Badge" align="left" style="margin-right: 20px;">
+  </a>
+  <strong>Google Data Analytics Professional Certificate</strong><br>
+  <em>Issued by Google</em><br>
+  Analyzed real world datasets to solve business problems using SQL, R, and Tableau or Python methodologies.<br>
+  <a href="https://coursera.org/share/250613b58974c255cf86759cd2486c9f">View Credential</a>
+</div>
+
+<br clear="left">
 
 ---
 
