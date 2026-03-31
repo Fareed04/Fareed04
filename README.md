@@ -62,6 +62,15 @@ Analyzed **over 2.2 million dollars** in sales data to identify **Technology and
 
 ---
 
+### ♟️ Chess.com Performance Analysis
+
+Analyzed 3,254 rated games across Bullet, Blitz, and Rapid to identify opening strengths and weaknesses, track rating progression, and generate targeted improvement recommendations.
+Identified the Scandinavian Defense (853 games, 48.8% win rate) and Queens Gambit as Black (39.5% win rate) as the most critical openings to study, with Kings Fianchetto as the weakest on both sides at 61.15% accuracy.
+
+🔗 https://github.com/Fareed04/Chess-data-analysis
+
+---
+
 ### 🏥 Healthcare Translation System
 
 Built a real-time speech to text translation system using a **Python and Django backend**, demonstrating applied ML in a production style workflow.  
