@@ -97,17 +97,37 @@ Git • GitHub • Jupyter • VS Code • PyCharm • Postman • Vercel
 
 ## 📜 Certifications
 
-<div align="left">
-  <a href="https://www.credly.com/badges/5d309060-1adc-47f9-9ab0-da2d934d9b08" target="_blank">
-    <img src="images/google_badge.png" width="100" height="100" alt="Google Data Analytics Badge" align="left" style="margin-right: 20px;">
-  </a>
-  <strong>Google Data Analytics Professional Certificate</strong><br>
-  <em>Issued by Google</em><br>
-  Analyzed real world datasets to solve business problems using SQL, R, and Tableau or Python methodologies.<br>
-  <a href="https://coursera.org/share/250613b58974c255cf86759cd2486c9f">View Credential</a>
-</div>
-
-<br clear="left">
+<table>
+  <!-- First Certificate -->
+  <tr>
+    <td width="120" valign="top" align="center">
+      <a href="https://coursera.org/share/250613b58974c255cf86759cd2486c9f" target="_blank">
+        <img src="images/google_badge.png" width="100" height="100" alt="Google Data Analytics Badge">
+      </a>
+    </td>
+    <td valign="top">
+      <strong>Google Data Analytics Professional Certificate</strong><br>
+      <em>Issued by Google / Coursera</em><br>
+      A rigorous, hands-on program covering the entire data analysis process: asking questions, preparing, processing, analyzing, sharing, and acting on data using spreadsheets, SQL, R, and Tableau.<br><br>
+      <a href="https://coursera.org/share/250613b58974c255cf86759cd2486c9f">View Credential</a>
+    </td>
+  </tr>
+  
+  <!-- Second Certificate -->
+  <tr>
+    <td width="120" valign="top" align="center">
+      <a href="https://coursera.org/share/fdf1c72fa905e9605512436f7794d844" target="_blank">
+        <img src="images/google-data-analysis-with-python-badge.png" width="100" height="100" alt="Google Data Analysis with Python Badge">
+      </a>
+    </td>
+    <td valign="top">
+      <strong>Google Data Analysis with Python Specialization</strong><br>
+      <em>Issued by Google / Coursera</em><br>
+      An advanced, code-centric program focused on leveraging Python for the complete data science lifecycle. Developed expertise in data manipulation with Pandas and NumPy, exploratory data analysis (EDA), and data visualization with Matplotlib and Seaborn to uncover actionable insights.<br><br>
+      <a href="https://coursera.org/share/fdf1c72fa905e9605512436f7794d844">View Credential</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
